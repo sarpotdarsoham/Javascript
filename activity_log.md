@@ -2000,3 +2000,4 @@ Fix bug on 2023-06-24 07:19:07
 Optimize images on 2023-10-21 03:53:35
 Update UI on 2023-03-24 01:15:55
 Optimize images on 2023-09-17 15:07:18
+Update documentation on 2023-04-18 15:45:17
