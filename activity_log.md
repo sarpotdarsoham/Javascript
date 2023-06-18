@@ -2044,3 +2044,4 @@ Add new feature on 2024-02-24 09:44:37
 Update documentation on 2024-02-24 09:44:37
 Fix bug on 2023-06-18 14:44:08
 Optimize images on 2023-06-18 14:44:08
+Refactor code on 2023-06-18 14:44:08
